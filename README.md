@@ -2,9 +2,10 @@
 <h2>Мне нравятся разные языки ☕:</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katerina163&layout=donut-vertical&hide=shell)](https://github.com/anuraghazra/github-readme-stats) 
+<!--
 <h2>Я активно развиваю свой Github :octocat:</h2>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Katerina163&theme=dracula&utcOffset=8) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Katerina163&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Katerina163&theme=dracula&utcOffset=8) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Katerina163&theme=dracula) -->
 <h2>Мне нравится решать задачи на Leetcode 🤔</h2>
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Ekaterina163n)](https://github.com/Ekaterina163n/leetcode-stats)
