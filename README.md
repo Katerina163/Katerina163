@@ -13,6 +13,8 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/kat163n)
 
 ![Mail](https://img.shields.io/badge/-mail-090909?style=for-the-badge&logo=maildotru&logoColor=27A0D9) Nefedova.Katia@yandex.ru
+
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/i_am_huxley)
 <!--
 **Katerina163/Katerina163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
